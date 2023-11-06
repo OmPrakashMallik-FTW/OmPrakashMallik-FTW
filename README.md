@@ -1,9 +1,16 @@
 ### Hi there 👋
 ## I am Om Prakash Mallik
 
-<div id="badges" align="center" style="padding: 10px;">
+<style>
+  #badges {
+    padding: 10px;
+  }
+</style>
+
+<div id="badges" align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=OmPrakashMallik2&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 <div id="header" align="center">
