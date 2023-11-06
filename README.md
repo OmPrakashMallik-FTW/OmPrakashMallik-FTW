@@ -18,8 +18,9 @@
   </a>
 </div>
 
-
-<img align="center" src="https://komarev.com/ghpvc/?username=OmPrakashMallik2&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=OmPrakashMallik2&style=flat-square&color=blue" alt=""/>
+</div>
 
 **OmPrakashMallik2/OmPrakashMallik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
