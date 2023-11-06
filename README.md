@@ -11,19 +11,19 @@
 
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/om-prakash-mallik-774187217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/o.p.mallik?fbclid=IwAR3f3b-LFzV2fRRGpDkQm5KoqDSvDdPtIKicBhi5rpVxbfm1VUC1a1u2fwA">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fop_mallik">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.facebook.com/profile.php?id=100010378098581">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
