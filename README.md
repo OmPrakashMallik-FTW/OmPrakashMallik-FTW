@@ -1,5 +1,3 @@
-### Hi there 👋
-## I am Om Prakash Mallik
 
 
 <div id="header" align="center">
