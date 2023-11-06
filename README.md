@@ -47,9 +47,11 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Programer from Bihar, India.
 
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 👩‍💻 Computer Science graduate | 2023 🎓
 
-- 🌱 Exploring Technical Content Writing.
+- 🚀 Aspiring Software Engineer | Passionate about learning and coding.
+
+- 🌱 Building the future, one line of code at a time.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
