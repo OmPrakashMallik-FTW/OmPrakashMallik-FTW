@@ -42,6 +42,17 @@
 
 ---
 
+### :woman_technologist: Coding Stats :
+
+- Leetcode : https://leetcode.com/OmPrakashMallik/
+
+- Geeks For Geeks : https://auth.geeksforgeeks.org/user/omprakashmallik91
+
+- Coding Ninja : https://www.codingninjas.com/studio/profile/OmPrakashMallik 
+
+ 
+---
+
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Programer from Bihar, India.
