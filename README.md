@@ -34,7 +34,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-  - 👉 Checkout my portfolio : https://golden-malabi-002817.netlify.app/
+<div align="center">
+  👉 Checkout my portfolio : https://golden-malabi-002817.netlify.app/
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
