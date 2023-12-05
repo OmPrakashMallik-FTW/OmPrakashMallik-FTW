@@ -57,7 +57,7 @@
  
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Programer from Bihar, India.
 
