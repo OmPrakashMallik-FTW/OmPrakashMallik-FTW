@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
-  👉 Checkout my portfolio : https://golden-malabi-002817.netlify.app/
+  👉 Checkout my portfolio : https://opmportfolio.netlify.app/
 </div>
 ---
 
