@@ -71,7 +71,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
 - ✉️ My email : omprakashmallik91@gmail.com
-
+<!--
 - 🔭 I’m currently working on ...
   
 - 🌱 I’m currently learning ...
@@ -84,7 +84,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 😄 Pronouns: ...
 
-- ⚡ Fun fact: ...
+ - ⚡ Fun fact: ...
+ -->
 
 ---
 
