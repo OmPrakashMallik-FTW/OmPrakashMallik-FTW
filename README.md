@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/o.p.mallik?fbclid=IwAR3f3b-LFzV2fRRGpDkQm5KoqDSvDdPtIKicBhi5rpVxbfm1VUC1a1u2fwA">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fop_mallik">
+  <a href="https://twitter.com/OmPrakashOG">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-youtube-URL">
