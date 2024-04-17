@@ -11,20 +11,14 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/om-prakash-mallik-774187217/">
+  <a href="https://www.linkedin.com/in/omprakashmallik91/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/om.prakash.mallik?fbclid=IwAR3f3b-LFzV2fRRGpDkQm5KoqDSvDdPtIKicBhi5rpVxbfm1VUC1a1u2fwA">
+  <a href="https://www.instagram.com/omxprakashxmallik?fbclid=IwAR3f3b-LFzV2fRRGpDkQm5KoqDSvDdPtIKicBhi5rpVxbfm1VUC1a1u2fwA">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/OmPrakashOG">
+  <a href="https://twitter.com/0mprakashmallik">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-<!--   <a href="https://www.youtube.com/@OmPrakashMallikOG">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://www.facebook.com/profile.php?id=100010378098581">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -101,6 +95,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <!-- Add more icons here -->
 </div>
 
