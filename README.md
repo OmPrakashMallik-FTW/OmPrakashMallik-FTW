@@ -27,6 +27,9 @@
   hey there 👋, i'm Om Prakash Mallik
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2 align="center">
+Full Stack Developer👨‍💻 | BTech CSE 2023🎓 | Skilled in React.js, Spring Boot, TailwindCSS and more | Seeking job or internship opportunities 🌟
+</h2>
 
 ---
 <div align="center">
