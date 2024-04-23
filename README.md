@@ -5,7 +5,7 @@
 </div>
 
 
-<div align="center" style="padding: 20px;">
+<div align="left" style="padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=OmPrakashMallik2&style=flat-square&color=blue" alt=""/>
 </div>
 
