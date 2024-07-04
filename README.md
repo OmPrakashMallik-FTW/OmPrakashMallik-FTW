@@ -29,8 +29,11 @@
 </h1>
 <h2 align="left">
 Full Stack Developer👨‍💻 | BTech CSE 2023🎓 | Skilled in React.js, Spring Boot, TailwindCSS and more | Seeking job or internship opportunities 🌟
-  Resume: https://drive.google.com/file/d/1Ou6ah82_4OIOkATy9wH9Kk9Pwm_j710K/view?usp=drive_link
 </h2>
+
+<div>
+  <h3>Resume: https://drive.google.com/file/d/1Ou6ah82_4OIOkATy9wH9Kk9Pwm_j710K/view?usp=drive_link</h3>h3>
+</div>
 
 ---
 <div align="center">
