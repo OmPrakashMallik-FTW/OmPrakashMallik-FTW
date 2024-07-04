@@ -37,9 +37,8 @@ Full Stack Developer👨‍💻 | BTech CSE 2023🎓 | Skilled in React.js, Spri
 
 ---
 <div align="center">
-  👉 Checkout my portfolio : https://opmportfolio.netlify.app/
+  <h3>👉 Checkout my portfolio : https://opmportfolio.netlify.app/</h3>
 </div>
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
