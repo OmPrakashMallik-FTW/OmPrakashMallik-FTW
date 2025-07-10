@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/omprakashmallik91/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/omxprakashxmallik?fbclid=IwAR3f3b-LFzV2fRRGpDkQm5KoqDSvDdPtIKicBhi5rpVxbfm1VUC1a1u2fwA">
+  <a href="https://www.instagram.com/om.prakash.mallik?fbclid=IwAR3f3b-LFzV2fRRGpDkQm5KoqDSvDdPtIKicBhi5rpVxbfm1VUC1a1u2fwA">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://twitter.com/0mprakashmallik">
+  <a href="https://twitter.com/OmPrakashOnX">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
