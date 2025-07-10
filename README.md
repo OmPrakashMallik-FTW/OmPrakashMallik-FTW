@@ -32,7 +32,7 @@ Full Stack Developer👨‍💻 | BTech CSE 2023🎓 | Skilled in React.js, Spri
 </h2>
 
 <div>
-  <h3>Resume: https://drive.google.com/file/d/1Ou6ah82_4OIOkATy9wH9Kk9Pwm_j710K/view?usp=drive_link</h3>
+  <h3>Resume: <a href="https://drive.google.com/drive/folders/1Z4OV31onMgQAViuDHKzYhBOwjR8X0A47">Click Here</a></h3>
 </div>
 
 ---
